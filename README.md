@@ -1,4 +1,4 @@
-## Rules for Good commit messages
+## Rules for Good commit messages:
 
 Good commit messages are crucial in managing and maintaining any collaborative project, or even for your future self to understand changes made. Here are some best practices for writing commit messages:
 
