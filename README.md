@@ -1,3 +1,5 @@
+## Rules for Good commit messages
+
 Good commit messages are crucial in managing and maintaining any collaborative project, or even for your future self to understand changes made. Here are some best practices for writing commit messages:
 
 - Use clear and concise language: The person reading your commit message should immediately understand what the commit does. If the message is unclear, it can cause confusion and may lead to unnecessary mistakes.
